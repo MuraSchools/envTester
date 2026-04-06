@@ -6,6 +6,7 @@ on:
     brancehs:
       - ci/*
 name: environment test
+
 jobs:
   live-job:
     environment: Live
